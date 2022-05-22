@@ -1,0 +1,279 @@
+Initial Player 1: [tc, as, 3d, 7s, 2s, 9d, 8h, jc, kh]
+Initial Player 2: [9c, 7d, 8c, ad, td, ah, 5d, qh, 8s]
+Player 1
+	Added: js
+	Discarded: as 
+	Hand Now:[tc, 3d, 7s, 2s, 9d, 8h, jc, kh, js]
+Player 2
+	Added: as
+	Discarded: ad ah as 
+	Hand Now:[9c, 7d, 8c, td, 5d, qh, 8s]
+Player 1
+	Added: as
+	Discarded: 7s 
+	Hand Now:[tc, 3d, 2s, 9d, 8h, jc, kh, js, as]
+Player 2
+	Added: th
+	Discarded: th 
+	Hand Now:[9c, 7d, 8c, td, 5d, qh, 8s]
+Player 1
+	Added: th
+	Discarded: 9d 
+	Hand Now:[tc, 3d, 2s, 8h, jc, kh, js, as, th]
+Player 2
+	Added: 2h
+	Discarded: 7d 
+	Hand Now:[9c, 8c, td, 5d, qh, 8s, 2h]
+Player 1
+	Added: 7d
+	Discarded: 7d 
+	Hand Now:[tc, 3d, 2s, 8h, jc, kh, js, as, th]
+Player 2
+	Added: 7d
+	Discarded: 5d 
+	Hand Now:[9c, 8c, td, qh, 8s, 2h, 7d]
+Player 1
+	Added: 5d
+	Discarded: 5d 
+	Hand Now:[tc, 3d, 2s, 8h, jc, kh, js, as, th]
+Player 2
+	Added: 5d
+	Discarded: 7d 
+	Hand Now:[9c, 8c, td, qh, 8s, 2h, 5d]
+Player 1
+	Added: 7h
+	Discarded: as 
+	Hand Now:[tc, 3d, 2s, 8h, jc, kh, js, th, 7h]
+Player 2
+	Added: 5c
+	Discarded: 5c 
+	Hand Now:[9c, 8c, td, qh, 8s, 2h, 5d]
+Player 1
+	Added: 5h
+	Discarded: 5h 
+	Hand Now:[tc, 3d, 2s, 8h, jc, kh, js, th, 7h]
+Player 2
+	Added: 5h
+	Discarded: qh 
+	Hand Now:[9c, 8c, td, 8s, 2h, 5d, 5h]
+Player 1
+	Added: qs
+	Discarded: 3d 
+	Hand Now:[tc, 2s, 8h, jc, kh, js, th, 7h, qs]
+Player 2
+	Added: 3d
+	Discarded: 9c 
+	Hand Now:[8c, td, 8s, 2h, 5d, 5h, 3d]
+Player 1
+	Added: kc
+	Discarded: 2s 
+	Hand Now:[tc, 8h, jc, kh, js, th, 7h, qs, kc]
+Player 2
+	Added: 2s
+	Discarded: 3d 
+	Hand Now:[8c, td, 8s, 2h, 5d, 5h, 2s]
+Player 1
+	Added: 3s
+	Discarded: 3s 
+	Hand Now:[tc, 8h, jc, kh, js, th, 7h, qs, kc]
+Player 2
+	Added: 2d
+	Discarded: 2h 2s 2d 
+	Hand Now:[8c, td, 8s, 5d, 5h]
+Player 1
+	Added: 4s
+	Discarded: th 
+	Hand Now:[tc, 8h, jc, kh, js, 7h, qs, kc, 4s]
+Player 2
+	Added: 5s
+	Discarded: 5d 5h 5s 
+	Hand Now:[8c, td, 8s]
+Player 1
+	Added: 8d
+	Discarded: kc 
+	Hand Now:[tc, 8h, jc, kh, js, 7h, qs, 4s, 8d]
+Player 2
+	Added: kc
+	Discarded: 8c 
+	Hand Now:[td, 8s, kc]
+Player 1
+	Added: 7c
+	Discarded: js 
+	Hand Now:[tc, 8h, jc, kh, 7h, qs, 4s, 8d, 7c]
+Player 2
+	Added: js
+	Discarded: 8s 
+	Hand Now:[td, kc, js]
+Player 1
+	Added: 2c
+	Discarded: 4s 
+	Hand Now:[tc, 8h, jc, kh, 7h, qs, 8d, 7c, 2c]
+Player 2
+	Added: 4s
+	Discarded: kc 
+	Hand Now:[td, js, 4s]
+Player 1
+	Added: kc
+	Discarded: kc 
+	Hand Now:[tc, 8h, jc, kh, 7h, qs, 8d, 7c, 2c]
+Player 2
+	Added: 6d
+	Discarded: td 
+	Hand Now:[js, 4s, 6d]
+Player 1
+	Added: ts
+	Discarded: tc 
+	Hand Now:[8h, jc, kh, 7h, qs, 8d, 7c, 2c, ts]
+Player 2
+	Added: tc
+	Discarded: 4s 
+	Hand Now:[js, 6d, tc]
+Player 1
+	Added: jh
+	Discarded: 7c 
+	Hand Now:[8h, jc, kh, 7h, qs, 8d, 2c, ts, jh]
+Player 2
+	Added: 7c
+	Discarded: js 
+	Hand Now:[6d, tc, 7c]
+Player 1
+	Added: js
+	Discarded: jc jh js 
+	Hand Now:[8h, kh, 7h, qs, 8d, 2c, ts]
+Player 2
+	Added: 3h
+	Discarded: 3h 
+	Hand Now:[6d, tc, 7c]
+Player 1
+	Added: 3c
+	Discarded: 2c 
+	Hand Now:[8h, kh, 7h, qs, 8d, ts, 3c]
+Player 2
+	Added: 2c
+	Discarded: 2c 
+	Hand Now:[6d, tc, 7c]
+Player 1
+	Added: 2c
+	Discarded: 2c 
+	Hand Now:[8h, kh, 7h, qs, 8d, ts, 3c]
+Player 2
+	Added: qc
+	Discarded: tc 
+	Hand Now:[6d, 7c, qc]
+Player 1
+	Added: tc
+	Discarded: tc 
+	Hand Now:[8h, kh, 7h, qs, 8d, ts, 3c]
+Player 2
+	Added: tc
+	Discarded: tc 
+	Hand Now:[6d, 7c, qc]
+Player 1
+	Added: tc
+	Discarded: ts 
+	Hand Now:[8h, kh, 7h, qs, 8d, 3c, tc]
+Player 2
+	Added: 4h
+	Discarded: qc 
+	Hand Now:[6d, 7c, 4h]
+Player 1
+	Added: 6s
+	Discarded: qs 
+	Hand Now:[8h, kh, 7h, 8d, 3c, tc, 6s]
+Player 2
+	Added: qs
+	Discarded: qs 
+	Hand Now:[6d, 7c, 4h]
+Player 1
+	Added: qs
+	Discarded: 8d 
+	Hand Now:[8h, kh, 7h, 3c, tc, 6s, qs]
+Player 2
+	Added: jd
+	Discarded: 6d 
+	Hand Now:[7c, 4h, jd]
+Player 1
+	Added: 9h
+	Discarded: qs 
+	Hand Now:[8h, kh, 7h, 3c, tc, 6s, 9h]
+Player 2
+	Added: qs
+	Discarded: 7c 
+	Hand Now:[4h, jd, qs]
+Player 1
+	Added: 9s
+	Discarded: 6s 
+	Hand Now:[8h, kh, 7h, 3c, tc, 9h, 9s]
+Player 2
+	Added: 6s
+	Discarded: 6s 
+	Hand Now:[4h, jd, qs]
+Player 1
+	Added: 6s
+	Discarded: tc 
+	Hand Now:[8h, kh, 7h, 3c, 9h, 9s, 6s]
+Player 2
+	Added: tc
+	Discarded: qs 
+	Hand Now:[4h, jd, tc]
+Player 1
+	Added: 4c
+	Discarded: 9s 
+	Hand Now:[8h, kh, 7h, 3c, 9h, 6s, 4c]
+Player 2
+	Added: ks
+	Discarded: ks 
+	Hand Now:[4h, jd, tc]
+Player 1
+	Added: kd
+	Discarded: kd 
+	Hand Now:[8h, kh, 7h, 3c, 9h, 6s, 4c]
+Player 2
+	Added: kd
+	Discarded: 4h 
+	Hand Now:[jd, tc, kd]
+Player 1
+	Added: 4h
+	Discarded: 7h 
+	Hand Now:[8h, kh, 3c, 9h, 6s, 4c, 4h]
+Player 2
+	Added: 6h
+	Discarded: tc 
+	Hand Now:[jd, kd, 6h]
+Player 1
+	Added: tc
+	Discarded: 6s 
+	Hand Now:[8h, kh, 3c, 9h, 4c, 4h, tc]
+Player 2
+	Added: 6c
+	Discarded: jd 
+	Hand Now:[kd, 6h, 6c]
+Player 1
+	Added: qd
+	Discarded: 8h 
+	Hand Now:[kh, 3c, 9h, 4c, 4h, tc, qd]
+Player 2
+	Added: 8h
+	Discarded: kd 
+	Hand Now:[6h, 6c, 8h]
+Player 1
+	Added: kd
+	Discarded: 3c 
+	Hand Now:[kh, 9h, 4c, 4h, tc, qd, kd]
+Player 2
+	Added: 4d
+	Discarded: 8h 
+	Hand Now:[6h, 6c, 4d]
+Player 1
+	Added: 8h
+	Discarded: kh 
+	Hand Now:[9h, 4c, 4h, tc, qd, kd, 8h]
+Player 2
+	Added: kh
+	Discarded: 6h 
+	Hand Now:[6c, 4d, kh]
+Player 1
+	Added: ac
+	Discarded: kd 
+	Hand Now:[9h, 4c, 4h, tc, qd, 8h, ac]
+Player 2 Wins!
